@@ -23,7 +23,7 @@ INSERT INTO cedulas (nome, quantia) VALUES
 	('R$5', 0),
 	('R$2', 0);
 ```
-## Rodar API: 
+## Rodar API
 ```
 npm run start
 ```
